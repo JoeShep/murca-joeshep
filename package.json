@@ -1,0 +1,15 @@
+{
+  "name": "color-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "color-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "string-length": "^1.0.1"
+  }
+}
